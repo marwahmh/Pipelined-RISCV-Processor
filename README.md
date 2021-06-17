@@ -4,5 +4,8 @@ In this release we submit a pipelined, efficient , processor with a single memor
 In addition, it supports all the compressed instructions which are based on the RV32I instruction set.
 note: some branching instructions are not working properly 
 
+<img width="460" alt="RV32I" src="https://user-images.githubusercontent.com/52168271/122470872-dd643580-cfbe-11eb-88f2-962361442c56.png">
+
+
 References for the instructions:
 https://content.riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf and https://rv8.io/isa.html
